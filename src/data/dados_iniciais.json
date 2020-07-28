@@ -1,0 +1,182 @@
+{
+  "categorias": [
+    {
+      "titulo": "Harry Potter",
+      "link": "",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Filmes ",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Melhores momentos Harry Potter",
+          "url": "https://www.youtube.com/watch?v=5n3ryfKLl0A"
+        },
+        {
+          "titulo": "Harry Potter e a Pedra Filosofal - Trailer Dublado (PT-BR)",
+          "url": "https://www.youtube.com/watch?v=CLJv2Qi98jU"
+        },
+        {
+          "titulo": "Harry Potter e a Câmara Secreta - TRAILER DUBLADO",
+          "url": "https://www.youtube.com/watch?v=VGi8YwmpW8Y"
+        },
+        {
+          "titulo": "Harry Potter e o Prisioneiro de Azkaban - TRAILER DUBLADO",
+          "url": "https://www.youtube.com/watch?v=sYSXXatPuxU"
+        },
+        {
+          "titulo": "Trailer de Harry Potter e o Cálice de Fogo (2005) [legendado em HD]",
+          "url": "https://www.youtube.com/watch?v=RwJlOdtoHRE"
+        },
+        {
+          "titulo": "Harry Potter e a Ordem da Fênix - TRAILER DUBLADO",
+          "url": "https://www.youtube.com/watch?v=6nzOej8jGgs"
+        },
+        {
+          "titulo": "harry potter eo enigma do príncipe trailer ",
+          "url": "https://www.youtube.com/watch?v=wgkHfUaG1nI"
+        },
+        {
+          "titulo": "Harry Potter e as Relíquias da Morte: Parte 1 - Trailer (dublado) [HD]",
+          "url": "https://www.youtube.com/watch?v=kmXjPbN-rYU"
+        },
+        {
+          "titulo":"Harry Potter e as Relíquias da Morte: Parte 2 - Trailer 2 (legendado) [HD]",
+          "url":"https://www.youtube.com/watch?v=E79fa8bLfPA"
+        }       
+      ]
+    },
+    {
+      "titulo": "Filmes bons",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Filmes que acho muito bons",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Trailer - Mãos Talentosas",
+          "url": "https://www.youtube.com/watch?v=8MnI1_kxGqo"
+        },
+        {
+          "titulo": "A Cabana | Trailer Oficial Dublado",
+          "url": "https://www.youtube.com/watch?v=tbpGAowldac"
+        },
+        {
+          "titulo": "À Prova De Fogo - Trailer",
+          "url": "https://www.youtube.com/watch?v=EpMMaWdaSrE"
+        },
+        {
+          "titulo": "Animais Fantásticos e Onde Habitam - Trailer Final (leg) [HD]",
+          "url": "https://www.youtube.com/watch?v=HRdIQ5oLHG4"
+        }, 
+        {
+          "titulo": "Mais Forte Que o Mundo: A história de José Aldo - Teaser trailer",
+          "url": "https://www.youtube.com/watch?v=_HSALa86blI"
+        }
+      ]
+    },
+    {
+      "titulo": "Animes",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Melhores Animes ",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Death note trailer",
+          "url": "https://www.youtube.com/watch?v=NlJZ-YgAt-c"
+        },
+        {
+          "titulo": "os setes pecados capitais trailer",
+          "url": "https://www.youtube.com/watch?v=wxcvbL6o55M"
+        },
+        {
+          "titulo": "tokyo ghoul trailer",
+          "url": "https://www.youtube.com/watch?v=vGuQeQsoRgU"
+        },
+        {
+          "titulo": "dragon ball anime trailer",
+          "url": "https://www.youtube.com/watch?v=aOPJ6y3HWII"
+        }
+      ]
+    },
+    {
+      "titulo": "Animação",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "anastasia trailer",
+          "url": "https://www.youtube.com/watch?v=eNj53-mu7xw"
+        },
+        {
+          "titulo": "shrek trailer dublado",
+          "url": "https://www.youtube.com/watch?v=Cvf19P42sNo"
+        },
+        {
+          "titulo": "Operação Big Hero | Trailer Dublado",
+          "url": "https://www.youtube.com/watch?v=20jQ11j-sIU"
+        },
+        {
+          "titulo": "Trailer | Ratatouille (Dublado)",
+          "url": "https://www.youtube.com/watch?v=0yWEA_WlQVk"
+        }
+      ]
+    },
+    {
+      "titulo": "Terror",
+      "cor": "red",
+      "link_extra": {
+        "text": "Filmes de terror e suspense",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "invocação do mal trailer dublado",
+          "url": "https://www.youtube.com/watch?v=22ZZN5-Uvzw"
+        },
+        {
+          "titulo": "a freira trailer dublado",
+          "url": "https://www.youtube.com/watch?v=oiH2QeOMrCs"
+        },
+        {
+          "titulo": "ouija trailer dublado",
+          "url": "https://www.youtube.com/watch?v=EqO-Az95qRo"
+        }
+        
+      ]
+    },
+    {
+      "titulo": "",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "SS"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": ""
+        },
+        {
+          "titulo": "Frameworks",
+          "url": ""
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": ""
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": ""
+        }
+      ]
+    }
+  ]
+}
